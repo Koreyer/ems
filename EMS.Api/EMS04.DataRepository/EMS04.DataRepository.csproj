@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EMS01.Foundation\EMS01.Foundation.csproj" />
+    <ProjectReference Include="..\EMS03.EntityModels.ORM\EMS03.EntityModels.ORM.csproj" />
+  </ItemGroup>
+
+</Project>
